@@ -1,6 +1,4 @@
-Claro, vou ajudá-lo a criar um arquivo README básico para o seu projeto API em Node.js usando TypeScript. Aqui está um exemplo de como você pode organizar as informações no arquivo README.md:
 
-```markdown
 # Nome do Projeto
 
 Breve descrição do seu projeto.
